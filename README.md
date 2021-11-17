@@ -4,8 +4,8 @@ Kaçak elektrik kullanımı yapan kullanıcıların tespit edilmesine yönelik b
 
 Proje Ekibi: 
 
-@ahmetkarayel
-@cimengizem
-@kagan-gungor
-@selinulusoy
+- @ahmetkarayel
+- @cimengizem
+- @kagan-gungor
+- @selinulusoy
 
